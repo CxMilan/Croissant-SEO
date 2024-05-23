@@ -1,0 +1,28 @@
+body {
+  background: white; ;
+}
+
+h1 {
+   color: saddlebrown;
+   text-align: center;
+   font-size: 46pt;
+}
+p {
+  text-align: center;
+  color: black;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+  margin: 0px 10px;
+  color: purple;
+  font-weight: bolder;
+  word-spacing: 50px;
+}
